@@ -1,4 +1,4 @@
-package com.example.kafka.model;
+package com.rishaleva.kafkaproducer.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

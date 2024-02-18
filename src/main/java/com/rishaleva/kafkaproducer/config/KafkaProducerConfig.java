@@ -1,6 +1,6 @@
-package com.example.kafka.config;
+package com.rishaleva.kafkaproducer.config;
 
-import com.example.kafka.model.User;
+import com.rishaleva.kafkaproducer.model.User;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;

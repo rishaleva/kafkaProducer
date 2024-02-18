@@ -1,6 +1,6 @@
-package com.example.kafka.controller;
+package com.rishaleva.kafkaproducer.controller;
 
-import com.example.kafka.model.User;
+import com.rishaleva.kafkaproducer.model.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.PostMapping;
